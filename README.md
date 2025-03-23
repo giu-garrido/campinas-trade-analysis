@@ -36,5 +36,5 @@ Campinas, one of Brazil's leading technology hubs, has a high concentration of i
 - **Opportunities for export growth** in industrial and high-value sectors.
 
 ## 📂 Available Files
-- **[📊 Power BI Dashboards](./dashboards.pdf)** – Interactive visualizations of Campinas' trade.
+- **[📊 Power BI Dashboards](./dashboards.pbix)** – Interactive visualizations of Campinas' trade.
 - **[📑 Final Report](./Relatório%20Final_Dashboards%20e%20analises.pdf)** – In-depth analysis in PDF format.
