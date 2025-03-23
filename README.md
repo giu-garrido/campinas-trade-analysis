@@ -31,10 +31,9 @@ Campinas, one of Brazil's leading technology hubs, has a high concentration of i
 - **Major Export Destinations:** 🇺🇸 USA, 🇦🇷 Argentina, 🇩🇪 Germany, 🇲🇽 Mexico, 🇨🇴 Colombia  
 
 ### **4. Trade Balance Analysis**
-- Campinas' trade balance **remains negative**, with an **$8.5 billion deficit** over four years.
 - **Technology and pharmaceuticals dominate imports**, reflecting high demand.
 - **Opportunities for export growth** in industrial and high-value sectors.
 
 ## 📂 Available Files
-- **[📊 Power BI Dashboards](./dashboards.pbix)** – Interactive visualizations of Campinas' trade.
+- **[📊 Power BI Dashboards](./dashboards.pbix)** – Visualizations of Campinas' trade.
 - **[📑 Final Report](./Relatório%20Final_Dashboards%20e%20analises.pdf)** – In-depth analysis in PDF format.
